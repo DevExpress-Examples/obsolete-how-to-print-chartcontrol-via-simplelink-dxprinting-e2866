@@ -5,6 +5,9 @@
 * [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
 <!-- default file list end -->
 # OBSOLETE - How to print ChartControl via SimpleLink (DXPrinting)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2866)**
+<!-- run online end -->
 
 
 This example illustrates an approach of including a <strong>ChartControl</strong> picture into a document generated via <strong>SimpleLink</strong> (DXPrinting).
